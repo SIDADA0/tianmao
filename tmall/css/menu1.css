@@ -1,0 +1,19 @@
+
+@font-face {font-family: "iconfont";
+  src: url('../../../fellows24/tmall/css/iconfont.eot?t=1531540080096'); /* IE9*/
+  src: url('../../../fellows24/tmall/css/iconfont.eot?t=1531540080096#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff;charset=utf-8;base64,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') format('woff'),
+  url('../../../fellows24/tmall/css/iconfont.ttf?t=1531540080096') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('../../../fellows24/tmall/css/iconfont.svg?t=1531540080096#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-nvzhuang:before { content: "\e60f"; }
+
